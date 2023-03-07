@@ -1,5 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9f2f756f-e1fc-48d9-9c07-b7d7433d8aaa/deploy-status)](https://heartfelt-lollipop-af9d75.netlify.app/)
 
+- 서버 없이(정확히는 서버는 API랑 통신하고) 프론트엔드 스택으로만 구성된 정적 애플리케이션을 배포하는 용도로 최적화된 서비스다.
+
 # ☕ STARBUCKS
 
 스타벅스 랜딩 페이지(홈페이지)를 만드는 예제입니다. <br>
